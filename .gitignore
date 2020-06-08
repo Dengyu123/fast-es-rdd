@@ -1,0 +1,19 @@
+##ignore this file##
+target/
+src/test/
+.idea
+.project
+.settings/
+*.class
+*.jar
+*.war
+*.iml
+bin/
+*.tmp
+*.bak
+*.swp
+.gradle
+tmp/
+.project
+.mvn/
+.DS_Store
