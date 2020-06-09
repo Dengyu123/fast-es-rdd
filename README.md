@@ -26,7 +26,7 @@ spark-index-writer工程下：[com.paic.dpp.api.DppEsSpark](https://github.com/D
 
 ### index建表格式：
 
-参考[spark-index-writer/batch/dyfirstindex.index]
+参考[spark-index-writer/batch/dyfirstindex.index](https://github.com/Dengyu123/fast-es-rdd/blob/master/faster-es-rdd/spark-index-writer/batch/dyfirstindex.index)
 
 $1: nested标识，0表示第一层字段，非0表示该字段下的nested字段
 
