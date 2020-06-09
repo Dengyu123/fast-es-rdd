@@ -18,7 +18,7 @@
 
 Spark api：
 
-spark-index-writer工程下：com.paic.dpp.api.DppEsSpark
+spark-index-writer工程下：[com.paic.dpp.api.DppEsSpark](https://github.com/Dengyu123/fast-es-rdd/blob/master/faster-es-rdd/spark-index-writer/src/main/scala/com/paic/dpp/api/DppEsSpark.scala)
 
 例子可参考
 [com.paic.dpp.test.SparkEsTest](https://github.com/Dengyu123/fast-es-rdd/blob/master/faster-es-rdd/spark-index-writer/src/main/scala/com/paic/dpp/test/SparkEsTest.scala)
@@ -26,7 +26,7 @@ spark-index-writer工程下：com.paic.dpp.api.DppEsSpark
 
 ### index建表格式：
 
-参考spark-index-writer/batch/dyfirstindex.index
+参考[spark-index-writer/batch/dyfirstindex.index]
 
 $1: nested标识，0表示第一层字段，非0表示该字段下的nested字段
 
@@ -90,7 +90,7 @@ conf.set("fs.defaultFs","hdfs://master:9000")
 
 加载文件操作集群步骤参考：
 
-spark-index-writer/batch/dataLoader.sh
+[spark-index-writer/batch/dataLoader.sh](https://github.com/Dengyu123/fast-es-rdd/blob/master/faster-es-rdd/spark-index-writer/batch/dataLoader.sh)
 
 
 
