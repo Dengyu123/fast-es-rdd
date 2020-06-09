@@ -20,8 +20,8 @@ Spark api：
 
 spark-index-writer工程下：com.paic.dpp.api.DppEsSpark
 
-例子可参考com.paic.dpp.test.SparkEsTest
-
+例子可参考[com.paic.dpp.test.SparkEsTest]
+(https://github.com/Dengyu123/fast-es-rdd/blob/master/faster-es-rdd/spark-index-writer/src/main/scala/com/paic/dpp/test/SparkEsTest.scala)
 
 
 ### index建表格式：
